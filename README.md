@@ -30,8 +30,8 @@ CUDA_VISIBLE_DEVICES=0 accelerate launch inference_sc.py
 
   - unet_2d_condition.py: Implement the conditional 2D U-Net model.
 
--test_image.py:  Inference on the test sets.
+- test_image.py:  Inference on the test sets.
 
--dataset.py: Data processing.
+- dataset.py: Data processing.
 
 - data: We provide the data storage path format, detailed data can download StorySalon dataset.
