@@ -93,11 +93,11 @@ CUDA_VISIBLE_DEVICES=0 accelerate launch inference_sc.py
 If you use this code for your research or project, please cite:
 
       @InProceedings{dong2025storycrafter,
-            author    = {Dong, Ruiqi and Pang, Wenjing and Pan, Chenjie and Lu, Heng-yang and Fan, Chenyou},
-            title     = {StoryCrafter: Instance-Aligned Multi-Character Storytelling with Diffusion Policy Learning},
+            author = {Dong, Ruiqi and Pang, Wenjing and Pan, Chenjie and Lu, Heng-yang and Fan, Chenyou},
+            title = {StoryCrafter: Instance-Aligned Multi-Character Storytelling with Diffusion Policy Learning},
             booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
-            year      = {2025},
-            doi     = {10.1145/3746027.3755022}
+            year = {2025},
+            doi = {10.1145/3746027.3755022}
       }
 
 
