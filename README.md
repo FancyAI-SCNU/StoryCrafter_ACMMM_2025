@@ -8,10 +8,10 @@
 
 <div align="center" style="font-family: Arial, sans-serif;">
   <p>
-    <a href="#-abstract" style="text-decoration: none; font-weight: bold;"> Abstract</a> •
-    <a href="#-dataset" style="text-decoration: none; font-weight: bold;">Dataset</a> •
-    <a href="#-training" style="text-decoration: none; font-weight: bold;">Training</a> •
-     <a href="#-code-details" style="text-decoration: none; font-weight: bold;">Code Details</a> 
+    <a href="#abstract" style="text-decoration: none; font-weight: bold;">Abstract</a> •
+    <a href="#dataset" style="text-decoration: none; font-weight: bold;">Dataset</a> •
+    <a href="#training" style="text-decoration: none; font-weight: bold;">Training</a> •
+     <a href="#code-details" style="text-decoration: none; font-weight: bold;">Code Details</a> 
   </p>
 </div>
 
