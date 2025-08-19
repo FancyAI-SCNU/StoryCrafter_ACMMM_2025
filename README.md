@@ -2,7 +2,8 @@
   
 # StoryCrafter: Instance-Aligned Multi-Character Storytelling withDiffusion Policy Learning 
 
-> Ruiqi Dong, Wenjing Pang, Chenjie Pan, Heng-yang Lu, Chenyou Fan∗
+> Ruiqi Dong, Wenjing Pang, Chenjie Pan, Heng-yang Lu, Chenyou Fan
+> School of Artificial Intelligence, South China Normal University
 
 </div>
 
