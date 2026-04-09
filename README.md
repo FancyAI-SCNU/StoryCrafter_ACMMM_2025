@@ -17,7 +17,11 @@
   </p>
 </div>
 
+## Update
 
+Added the extended method derived from this study, **StoryCrafter-TTRL**. 
+
+The repository now includes code and details for both the original method and its extended version.
 
 ##  Abstract
 
