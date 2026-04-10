@@ -67,6 +67,11 @@ CUDA_VISIBLE_DEVICES=0 accelerate launch train_SC_stage2.py
 ```python
 CUDA_VISIBLE_DEVICES=0 accelerate launch inference_sc.py
 ```
+## Inference with TTRL
+
+```python
+CUDA_VISIBLE_DEVICES=0 accelerate launch inference_ttrl.py
+```
 
 ## Code Details
 
